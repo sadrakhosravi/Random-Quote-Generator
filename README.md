@@ -1,2 +1,3 @@
-# random quote generator
- Generates random quotes on button click - Project 1
+# Random Quote Generator
+
+Generates andom quotes on button click and 10 seconds time interval - Project 1 TeamTreeHouse
